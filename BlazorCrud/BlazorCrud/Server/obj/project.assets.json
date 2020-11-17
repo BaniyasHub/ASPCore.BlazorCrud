@@ -2422,7 +2422,7 @@
       ]
     },
     "runtime.native.System.Security.Cryptography/4.0.0": {
-      "sha512": "tY+xLrLSRpwh4Wz5D8eVEph1nzX4gKOKmdCsh6mjDUXPMv++f3Ra57OAVXJN4ffWDEwXDKm/Nm5xEQG4u3xywg==",
+      "sha512": "2CQK0jmO6Eu7ZeMgD+LOFbNJSXHFVQbCJJkEyEwowh1SCgYnrn9W9RykMfpeeVGw7h4IBvYikzpGUlmZTUafJw==",
       "type": "package",
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "files": [
@@ -2861,7 +2861,7 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -2899,7 +2899,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -4464,7 +4464,7 @@
       ]
     },
     "System.Runtime.Numerics/4.0.1": {
-      "sha512": "vsTpVcFaBcRSTussHpjDMLNWSQKGaLL3bTylJZI3UBX/RR2pM0a3sHQMfxed7G8fFyGkxSLzyA5fM2db3PhD/Q==",
+      "sha512": "+XbKFuzdmLP3d1o9pdHu2nxjNr2OEPqGzKeegPLCUMM71a0t50A/rOcIRmGs9wR7a8KuHX6hYs/7/TymIGLNqg==",
       "type": "package",
       "path": "system.runtime.numerics/4.0.1",
       "files": [
@@ -4720,7 +4720,7 @@
       ]
     },
     "System.Security.Cryptography.Algorithms/4.2.0": {
-      "sha512": "RxJqvCCi0jFmQILgUhIG6TEL+tdblpaJx1cL4UzZnjHF89vqXuDOBjLsufkUM0l4oOP0evvJO9+XMgrWRnvtDA==",
+      "sha512": "8JQFxbLVdrtIOKMDN38Fn0GWnqYZw/oMlwOUG/qz1jqChvyZlnUmu+0s7wLx7JYua/nAXoESpHA3iw11QFWhXg==",
       "type": "package",
       "path": "system.security.cryptography.algorithms/4.2.0",
       "files": [
@@ -4759,7 +4759,7 @@
       ]
     },
     "System.Security.Cryptography.Csp/4.0.0": {
-      "sha512": "+6RRS1qpQAyEkoYtbz/gd7Ep9V3C7KPMKVFwXh5sICZ4oI584yao0LTGb2fVPL5/XAirTNqSiAcpPJaNVS1nDg==",
+      "sha512": "/i1Usuo4PgAqgbPNC0NjbO3jPW//BoBlTpcWFD1EHVbidH21y4c1ap5bbEMSGAXjAShhMH4abi/K8fILrnu4BQ==",
       "type": "package",
       "path": "system.security.cryptography.csp/4.0.0",
       "files": [
@@ -4790,7 +4790,7 @@
       ]
     },
     "System.Security.Cryptography.Encoding/4.0.0": {
-      "sha512": "1knUOm6U/60ypx6cThUNyhkuBQ2BudbdTXMJE9jmS55MLDZjwTGv1qSaieqYaD3/zaT/uhzjBO//d0hHYa+oWg==",
+      "sha512": "FbKgE5MbxSQMPcSVRgwM6bXN3GtyAh04NkV8E5zKCBE26X0vYW0UtTa2FIgkH33WVqBVxRgxljlVYumWtU+HcQ==",
       "type": "package",
       "path": "system.security.cryptography.encoding/4.0.0",
       "files": [
@@ -5621,7 +5621,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
+      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
@@ -5709,23 +5709,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ankit\\.nuget\\packages\\": {},
+    "C:\\Users\\esd\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
+      "projectUniqueName": "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
       "projectName": "BlazorCrud.Server",
-      "projectPath": "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
-      "packagesPath": "C:\\Users\\ankit\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\obj\\",
+      "projectPath": "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\BlazorCrud.Server.csproj",
+      "packagesPath": "C:\\Users\\esd\\.nuget\\packages\\",
+      "outputPath": "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\esd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5737,12 +5737,13 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj": {
-              "projectPath": "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj"
+            "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj": {
+              "projectPath": "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Client\\BlazorCrud.Client.csproj"
             },
-            "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
-              "projectPath": "E:\\Projects\\BlazorUpdates\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
+            "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj": {
+              "projectPath": "C:\\Home\\GitHub\\ASPCore.BlazorCrud\\BlazorCrud\\BlazorCrud\\Shared\\BlazorCrud.Shared.csproj"
             }
           }
         }
@@ -5755,6 +5756,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.Blazor.Server": {
             "target": "Package",
@@ -5771,6 +5773,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5779,7 +5787,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.2.20479.15\\RuntimeIdentifierGraph.json"
       }
     }
   }
